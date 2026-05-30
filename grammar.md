@@ -535,3 +535,460 @@ Akkusativ prepositions → durch, für, gegen, ohne, um
 > 4. ⭐⭐ Dativ (mit dem Bus, seit einem Jahr)
 > 5. ⭐⭐ Sentence structure (verb position 2, weil)
 > 6. ⭐ Possessives (mein/meine)
+
+
+
+
+
+
+
+## ⏰ Tenses, Participles & Common Verbs
+
+---
+
+### 1. Present Tense (Präsens) — Now & Habits
+
+> Used for: current actions, habits, and near future plans
+
+#### Structure
+Subject + Conjugated Verb + Rest
+Ich      trinke          Kaffee.
+
+#### Regular Verb Endings
+| Pronoun | Ending | Example (machen) |
+|---|---|---|
+| ich | **-e** | ich mach**e** |
+| du | **-st** | du mach**st** |
+| er/sie/es | **-t** | er mach**t** |
+| wir | **-en** | wir mach**en** |
+| ihr | **-t** | ihr mach**t** |
+| sie/Sie | **-en** | sie mach**en** |
+
+#### Examples
+Ich lerne Deutsch.              → I learn German. (habit)
+Er arbeitet in Berlin.          → He works in Berlin.
+Wir wohnen in einer Wohnung.    → We live in an apartment.
+Sie trinkt jeden Tag Kaffee.    → She drinks coffee every day.
+Ich gehe morgen zum Arzt.       → I am going to the doctor tomorrow.
+(present used for near future!)
+
+#### Time Words for Präsens
+| German | English |
+|---|---|
+| heute | today |
+| jetzt | now |
+| gerade | right now |
+| immer | always |
+| oft | often |
+| manchmal | sometimes |
+| nie | never |
+| jeden Tag | every day |
+| morgens | in the morning |
+| abends | in the evening |
+
+---
+
+### 2. Past Tense — Two Ways
+
+---
+
+#### A) Perfekt (Conversational Past) ⭐ Most Important for A1
+
+> Used for: talking about past events in conversation
+> This is what Germans use in everyday speech!
+
+#### Structure
+haben/sein + Past Participle (at the END)
+Ich habe   Kaffee   getrunken.
+↑ helper         ↑ participle at end
+
+#### When to use HABEN vs SEIN?
+
+| HABEN | SEIN |
+|---|---|
+| Most verbs | Verbs of movement |
+| Transitive verbs (have an object) | Verbs of change of state |
+| **kaufen, essen, trinken, machen** | **gehen, kommen, fahren, fliegen** |
+HABEN:                          SEIN:
+Ich habe gegessen.              Ich bin gegangen.
+Ich habe getrunken.             Ich bin gefahren.
+Ich habe gekauft.               Ich bin gekommen.
+Ich habe gearbeitet.            Ich bin geflogen.
+
+#### How to Form Past Participle (ge–...–t / ge–...–en)
+
+**Regular verbs → ge + stem + t**
+machen   → ge + mach + t  = gemacht
+kaufen   → ge + kauf + t  = gekauft
+arbeiten → ge + arbeit + et = gearbeitet
+lernen   → ge + lern + t  = gelernt
+wohnen   → ge + wohn + t  = gewohnt
+spielen  → ge + spiel + t = gespielt
+
+**Irregular verbs → ge + changed stem + en**
+essen    → gegessen     (eaten)
+trinken  → getrunken    (drunk)
+schreiben→ geschrieben  (written)
+fahren   → gefahren     (driven)
+gehen    → gegangen     (gone)
+kommen   → gekommen     (come)
+sehen    → gesehen      (seen)
+lesen    → gelesen      (read)
+schlafen → geschlafen   (slept)
+sprechen → gesprochen   (spoken)
+
+**Verbs with no "ge–" (starting with be–, ver–, er–)**
+bezahlen  → bezahlt      (paid)
+bestellen → bestellt     (ordered)
+verlaufen → verlaufen    (got lost)
+verstehen → verstanden   (understood)
+erklären  → erklärt      (explained)
+
+#### Perfekt Examples
+Ich habe Deutsch gelernt.       → I learned German.
+Er hat einen Kaffee getrunken.  → He drank a coffee.
+Wir haben Brot gekauft.         → We bought bread.
+Sie hat gearbeitet.             → She worked.
+Ich bin nach Berlin gefahren.   → I drove to Berlin.
+Er ist nach Hause gegangen.     → He went home.
+Wir sind früh gekommen.         → We came early.
+Ich habe mich verlaufen.        → I got lost.
+
+---
+
+#### B) Präteritum (Written Past) — Only for A1 Basics
+
+> Used for: writing, formal texts, news
+> At A1 level — only learn sein and haben in Präteritum!
+
+#### sein (to be) — Präteritum
+| Pronoun | Präteritum |
+|---|---|
+| ich | **war** |
+| du | **warst** |
+| er/sie/es | **war** |
+| wir | **waren** |
+| sie/Sie | **waren** |
+
+#### haben (to have) — Präteritum
+| Pronoun | Präteritum |
+|---|---|
+| ich | **hatte** |
+| du | **hattest** |
+| er/sie/es | **hatte** |
+| wir | **hatten** |
+| sie/Sie | **hatten** |
+
+#### Examples
+Ich war gestern krank.          → I was sick yesterday.
+Er war müde.                    → He was tired.
+Wir waren in Berlin.            → We were in Berlin.
+Ich hatte keine Zeit.           → I had no time.
+Sie hatte Kopfschmerzen.        → She had a headache.
+
+#### Time Words for Past
+| German | English |
+|---|---|
+| gestern | yesterday |
+| vorgestern | the day before yesterday |
+| letzte Woche | last week |
+| letzten Monat | last month |
+| letztes Jahr | last year |
+| vor zwei Tagen | two days ago |
+| früher | earlier / before |
+| damals | back then |
+
+---
+
+### 3. Future Tense (Zukunft)
+
+---
+
+#### A) Present Tense for Near Future ⭐ Easiest Way
+
+> Germans often use present tense + time word for future!
+Ich gehe   morgen   zum Arzt.   → I am going to the doctor tomorrow.
+Er kommt   heute Abend.         → He is coming this evening.
+Wir fahren nächste Woche.       → We are going next week.
+
+---
+
+#### B) Werden + Infinitive (Formal Future)
+
+#### Structure
+werden (conjugated) + Infinitive (at END)
+Ich  werde   Deutsch   lernen.
+↑ werden          ↑ infinitive at end
+
+#### Conjugation of "werden"
+| Pronoun | werden |
+|---|---|
+| ich | **werde** |
+| du | **wirst** |
+| er/sie/es | **wird** |
+| wir | **werden** |
+| ihr | **werdet** |
+| sie/Sie | **werden** |
+
+#### Examples
+Ich werde Deutsch lernen.       → I will learn German.
+Du wirst einen Job finden.      → You will find a job.
+Er wird nach Berlin fahren.     → He will travel to Berlin.
+Wir werden heiraten.            → We will get married.
+Es wird regnen.                 → It will rain.
+Sie werden kommen.              → They will come.
+
+#### Time Words for Future
+| German | English |
+|---|---|
+| morgen | tomorrow |
+| übermorgen | the day after tomorrow |
+| nächste Woche | next week |
+| nächsten Monat | next month |
+| nächstes Jahr | next year |
+| bald | soon |
+| später | later |
+| in zwei Tagen | in two days |
+
+---
+
+### 4. Past Participles — Complete List
+
+#### Regular Verbs (ge–...–t)
+| Infinitive | Participle | English |
+|---|---|---|
+| machen | ge**macht** | done/made |
+| kaufen | ge**kauft** | bought |
+| lernen | ge**lernt** | learned |
+| wohnen | ge**wohnt** | lived |
+| spielen | ge**spielt** | played |
+| arbeiten | ge**arbeitet** | worked |
+| kochen | ge**kocht** | cooked |
+| hören | ge**hört** | heard |
+| sagen | ge**sagt** | said |
+| fragen | ge**fragt** | asked |
+| suchen | ge**sucht** | searched |
+| brauchen | ge**braucht** | needed |
+| zeigen | ge**zeigt** | shown |
+| warten | ge**wartet** | waited |
+| antworten | ge**antwortet** | answered |
+
+#### Irregular Verbs (ge–...–en)
+| Infinitive | Participle | English |
+|---|---|---|
+| essen | ge**gessen** | eaten |
+| trinken | ge**trunken** | drunk |
+| schreiben | ge**schrieben** | written |
+| fahren | ge**fahren** | driven |
+| gehen | ge**gangen** | gone |
+| kommen | ge**kommen** | come |
+| sehen | ge**sehen** | seen |
+| lesen | ge**lesen** | read |
+| schlafen | ge**schlafen** | slept |
+| sprechen | ge**sprochen** | spoken |
+| nehmen | ge**nommen** | taken |
+| geben | ge**geben** | given |
+| finden | ge**funden** | found |
+| bleiben | ge**blieben** | stayed |
+| heißen | ge**heißen** | been called |
+| laufen | ge**laufen** | run/walked |
+| stehen | ge**standen** | stood |
+| verstehen | ver**standen** | understood |
+| anfangen | an**gefangen** | started |
+| anrufen | an**gerufen** | called |
+
+#### Mixed Verbs (ge–...–t but stem changes)
+| Infinitive | Participle | English |
+|---|---|---|
+| bringen | ge**bracht** | brought |
+| denken | ge**dacht** | thought |
+| kennen | ge**kannt** | known |
+| wissen | ge**wusst** | known (fact) |
+| rennen | ge**rannt** | run (fast) |
+
+---
+
+### 5. Common Verbs for A1 — Full Reference
+
+#### Daily Life Verbs
+| Infinitive | Präsens (ich) | Perfekt | English |
+|---|---|---|---|
+| schlafen | schlafe | habe geschlafen | to sleep |
+| aufstehen | stehe auf | bin aufgestanden | to get up |
+| frühstücken | frühstücke | habe gefrühstückt | to have breakfast |
+| arbeiten | arbeite | habe gearbeitet | to work |
+| essen | esse | habe gegessen | to eat |
+| trinken | trinke | habe getrunken | to drink |
+| kochen | koche | habe gekocht | to cook |
+| einkaufen | kaufe ein | habe eingekauft | to shop |
+| fahren | fahre | bin gefahren | to drive/travel |
+| gehen | gehe | bin gegangen | to go/walk |
+| kommen | komme | bin gekommen | to come |
+| wohnen | wohne | habe gewohnt | to live |
+
+#### Communication Verbs
+| Infinitive | Präsens (ich) | Perfekt | English |
+|---|---|---|---|
+| sprechen | spreche | habe gesprochen | to speak |
+| sagen | sage | habe gesagt | to say |
+| fragen | frage | habe gefragt | to ask |
+| antworten | antworte | habe geantwortet | to answer |
+| schreiben | schreibe | habe geschrieben | to write |
+| lesen | lese | habe gelesen | to read |
+| hören | höre | habe gehört | to hear/listen |
+| verstehen | verstehe | habe verstanden | to understand |
+| anrufen | rufe an | habe angerufen | to call |
+| heißen | heiße | habe geheißen | to be called |
+
+#### Movement Verbs (use SEIN in Perfekt)
+| Infinitive | Präsens (ich) | Perfekt | English |
+|---|---|---|---|
+| gehen | gehe | **bin** gegangen | to go |
+| kommen | komme | **bin** gekommen | to come |
+| fahren | fahre | **bin** gefahren | to drive |
+| fliegen | fliege | **bin** geflogen | to fly |
+| laufen | laufe | **bin** gelaufen | to run/walk |
+| reisen | reise | **bin** gereist | to travel |
+| ankommen | komme an | **bin** angekommen | to arrive |
+| abfahren | fahre ab | **bin** abgefahren | to depart |
+| aufstehen | stehe auf | **bin** aufgestanden | to get up |
+| bleiben | bleibe | **bin** geblieben | to stay |
+
+#### Important State/Being Verbs
+| Infinitive | Präsens (ich) | Perfekt | English |
+|---|---|---|---|
+| sein | bin | **bin** gewesen | to be |
+| haben | habe | habe gehabt | to have |
+| werden | werde | **bin** geworden | to become |
+| heißen | heiße | habe geheißen | to be called |
+| wissen | weiß | habe gewusst | to know (fact) |
+| kennen | kenne | habe gekannt | to know (person) |
+
+#### Shopping & Money Verbs
+| Infinitive | Präsens (ich) | Perfekt | English |
+|---|---|---|---|
+| kaufen | kaufe | habe gekauft | to buy |
+| bezahlen | bezahle | habe bezahlt | to pay |
+| kosten | kostet | hat gekostet | to cost |
+| bestellen | bestelle | habe bestellt | to order |
+| brauchen | brauche | habe gebraucht | to need |
+| nehmen | nehme | habe genommen | to take |
+| finden | finde | habe gefunden | to find |
+| suchen | suche | habe gesucht | to search |
+
+---
+
+### 6. Tenses Side by Side — Same Sentence
+PRÄSENS  (now/habit):
+Ich trinke Kaffee.              → I drink coffee.
+PERFEKT  (past/spoken):
+Ich habe Kaffee getrunken.      → I drank coffee.
+PRÄTERITUM (past/written):
+Ich trank Kaffee.               → I drank coffee.
+FUTUR (future):
+Ich werde Kaffee trinken.       → I will drink coffee.
+Ich trinke morgen Kaffee.       → I am drinking coffee tomorrow.
+
+---
+
+### 7. Separable Verbs (Trennbare Verben)
+
+> Some verbs split apart in a sentence!
+> Prefix goes to the END
+
+#### Common Separable Verbs
+| Verb | Split | Example | English |
+|---|---|---|---|
+| aufstehen | auf + stehen | Ich stehe um 7 **auf**. | to get up |
+| anfangen | an + fangen | Der Kurs fängt **an**. | to start |
+| anrufen | an + rufen | Ich rufe dich **an**. | to call |
+| einkaufen | ein + kaufen | Ich kaufe **ein**. | to shop |
+| mitkommen | mit + kommen | Kommst du **mit**? | to come along |
+| zurückkommen | zurück + kommen | Ich komme **zurück**. | to come back |
+| fernsehen | fern + sehen | Er sieht **fern**. | to watch TV |
+| abfahren | ab + fahren | Der Zug fährt **ab**. | to depart |
+| ankommen | an + kommen | Ich komme **an**. | to arrive |
+| aufmachen | auf + machen | Mach die Tür **auf**! | to open |
+| zumachen | zu + machen | Mach die Tür **zu**! | to close |
+
+#### In Perfekt — prefix stays attached to ge–
+aufstehen  → aufgestanden   Ich bin aufgestanden.
+anrufen    → angerufen      Ich habe angerufen.
+einkaufen  → eingekauft     Ich habe eingekauft.
+anfangen   → angefangen     Es hat angefangen.
+
+---
+
+### 8. Reflexive Verbs (Reflexive Verben)
+
+> Verb + reflexive pronoun (mich/dich/sich...)
+
+#### Common Reflexive Verbs
+| Verb | Example | English |
+|---|---|---|
+| sich waschen | Ich wasche **mich**. | to wash oneself |
+| sich anziehen | Ich ziehe **mich** an. | to get dressed |
+| sich setzen | Setz **dich**! | to sit down |
+| sich fühlen | Ich fühle **mich** gut. | to feel |
+| sich vorstellen | Ich stelle **mich** vor. | to introduce oneself |
+| sich verlaufen | Ich habe **mich** verlaufen. | to get lost (walking) |
+| sich verfahren | Ich habe **mich** verfahren. | to get lost (driving) |
+| sich freuen | Ich freue **mich**. | to be happy |
+| sich beeilen | Beeil **dich**! | to hurry up |
+| sich erinnern | Ich erinnere **mich**. | to remember |
+
+---
+
+### 9. Quick Tense Reference Card
+
+#### When to use which tense?
+
+| Situation | Tense | Example |
+|---|---|---|
+| Right now | Präsens | Ich trinke Kaffee. |
+| Habit/routine | Präsens | Ich arbeite jeden Tag. |
+| Near future + time word | Präsens | Ich gehe morgen zum Arzt. |
+| Spoken past | Perfekt | Ich habe gearbeitet. |
+| was/were (written) | Präteritum | Ich war müde. |
+| had (written) | Präteritum | Ich hatte Zeit. |
+| Formal future | Futur | Ich werde lernen. |
+
+#### Perfekt: haben or sein?
+Movement or change?          → SEIN
+gehen, kommen, fahren,
+fliegen, laufen, bleiben,
+aufstehen, werden
+Everything else?             → HABEN
+essen, trinken, kaufen,
+arbeiten, lernen, schlafen
+
+#### Participle formation at a glance
+Regular:    ge + stem + t      →  ge|mach|t
+Irregular:  ge + new stem + en →  ge|gang|en
+ver/be/er:  NO ge prefix       →  ver|stand|en
+Separable:  prefix + ge + t/en →  auf|ge|stand|en
+
+---
+
+### 10. Common Mistakes with Tenses
+❌ Ich bin gegessen.           ✅ Ich habe gegessen.
+(essen uses haben!)
+❌ Ich habe gegangen.          ✅ Ich bin gegangen.
+(gehen uses sein!)
+❌ Ich habe gefahren.          ✅ Ich bin gefahren.
+(fahren uses sein!)
+❌ Gestern ich war krank.      ✅ Gestern war ich krank.
+(verb must be position 2!)
+❌ Ich werde morgen lernen Deutsch. ✅ Ich werde morgen Deutsch lernen.
+(infinitive goes to the END!)
+❌ Ich habe mich verlauft.     ✅ Ich habe mich verlaufen.
+(irregular participle!)
+
+---
+
+> 🎯 **A1 Tense Priority:**
+> 1. ⭐⭐⭐ Präsens — use every single day
+> 2. ⭐⭐⭐ Perfekt — talk about the past in conversation
+> 3. ⭐⭐ war/hatte — Präteritum only for sein & haben
+> 4. ⭐ Futur with werden — nice to know
+> 5. ⭐ Present tense for future — easiest way!
